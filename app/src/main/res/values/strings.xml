@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KFeedReader</string>
+    <string name="imgContentDesc">Imagem da Notícia</string>
+    <string name="seemore">VER MAIS</string>
+</resources>
